@@ -1,4 +1,4 @@
-# Libft - A Custom C Standard Library**
+# Libft - A Custom C Standard Library
 
 This repository contains **Libft**, a personal implementation of various C standard library functions, created as part of the 42 curriculum. It provides a set of essential functions for string manipulation, memory management, and utility functions, helping to deepen my understanding of low-level programming in C.
 
