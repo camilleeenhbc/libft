@@ -17,5 +17,3 @@ This repository contains **Libft**, a personal implementation of various C stand
   - `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`.
 - **Number Handling**: 
   - `ft_atoi`, `ft_itoa`.
-
-This library is designed to be modular and reusable for various C projects, offering custom implementations that enhance learning and offer flexibility for low-level programming tasks.
